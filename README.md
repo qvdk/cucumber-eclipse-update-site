@@ -1,4 +1,4 @@
-# Cucumber Eclipse update site
+# Cucumber Eclipse updates
 
 This update site is automatically updated with the latest release of the Cucumber Eclipse plugin.
 
